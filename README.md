@@ -1,4 +1,4 @@
-# Vite + Vue + Typescript = ❤️
+# Vite + Vue + Typescript + Tailwind CSS = ❤️
 
 ## Development Setup / IDE
 
