@@ -11,7 +11,7 @@
     "format": "prettier --ignore-unknown --write ."
   },
   "dependencies": {
-    "vue": "3.2.33"
+    "vue": "3.2.37"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "1.1.3",
