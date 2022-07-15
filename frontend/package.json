@@ -14,7 +14,7 @@
     "vue": "3.2.37"
   },
   "devDependencies": {
-    "@rushstack/eslint-patch": "1.1.3",
+    "@rushstack/eslint-patch": "1.1.4",
     "@typescript-eslint/eslint-plugin": "5.28.0",
     "@typescript-eslint/parser": "5.28.0",
     "@vitejs/plugin-vue": "2.3.3",
